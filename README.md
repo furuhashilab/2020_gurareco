@@ -1,4 +1,9 @@
 # 2020_gurareco
->2020_06 ハッカソン   
-https://github.com/furuhashilab/2020_gurareco/projects/1
+2020年 グラレコ部リポジトリ
+# プロジェクト  
+https://github.com/furuhashilab/2020_gurareco/projects/1   
+#issue   
+
+#発表用パワポ
+
 
