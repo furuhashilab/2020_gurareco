@@ -1,6 +1,7 @@
 ## 2020_gurareco
 2020年 グラレコ部リポジトリ
 # プロジェクト  
+2020_06_ Hackathon   
 https://github.com/furuhashilab/2020_gurareco/projects/1   
 # issue  
 https://github.com/furuhashilab/2020_gurareco/issues
